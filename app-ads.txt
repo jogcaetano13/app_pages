@@ -508,3 +508,6 @@ lijit.com, 297837, DIRECT, fafdf38b16bf6b2b
 #EngageBDR
 engagebdr.com, 10073, RESELLER
 google.com, pub-4968002696360727, DIRECT, f08c47fec0942fa0
+bigo.sg,1112518,reseller
+yandex.com,302446435,reseller
+applovin.com,a97e4a2a60836795b8e1433cefd17f30,RESELLER
